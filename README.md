@@ -34,4 +34,13 @@ Upon entering , type the password:ann1234<br />
 
 # Upload photos
 
-1.After signup upload the photo of the individual in the known-people folder of UFACE_flask folder
+1.After signup upload the photo of the individual in the known-people folder of UFACE_flask folder with the first name used for registering<br />
+2.Then add the person to the face_rec.py file in UFace_flask folder as shown below<br />
+![image](https://user-images.githubusercontent.com/106432731/170879272-15d46d27-deda-46ae-afb6-a6c3b791afb4.png)
+
+
+3. Then again add the following code to app.py in Uface_flask folder as shown below<br />
+![image](https://user-images.githubusercontent.com/106432731/170879305-16b55e72-d7d1-442c-a0f0-3127eaf66185.png)
+
+4.Now one can login and perform successful transactions
+
