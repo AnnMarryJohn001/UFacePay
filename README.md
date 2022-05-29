@@ -8,21 +8,26 @@ Project of Microsoft Engage 2022 program
 
 # How to run the project
 1.Clone or download this repository to your local machine<br />
-2. Open command prompt and change the directory to UFace_flask folder and type
+2.Run 
+```
+npm i
+```
+to install the node_modules in both UFace App folder as well as the Uface_frontend folder
+3. Open command prompt and change the directory to UFace_flask folder and type
 ```
 flask run 
 ```
-3.Then use another command prompt and navigate to UFACE APP folder and type
+4.Then use another command prompt and navigate to UFACE APP folder and type
 ```
 npm run nodemon
 ```
-4.Then in another command prompt navigate to the uface_frontend folder and enter
+5.Then in another command prompt navigate to the uface_frontend folder and enter
 ```
 npm start
 ```
-5.To set up the mongoDB atlas connection enter the code in command prompt
+6.To set up the mongoDB atlas connection enter the code in command prompt
 ```
 mongosh "mongodb+srv://cluster0.cvp11.mongodb.net/UFACE" --apiVersion 1 --username AnnMarryJohn
 ```
 Upon entering , type the password<br />
-6.Our project is ready to run and will be prompted in the browser
+7.Our project is ready to run and will be prompted in the browser
