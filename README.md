@@ -29,5 +29,9 @@ npm start
 ```
 mongosh "mongodb+srv://cluster0.cvp11.mongodb.net/UFACE" --apiVersion 1 --username AnnMarryJohn
 ```
-Upon entering , type the password<br />
+Upon entering , type the password:ann1234<br />
 7.Our project is ready to run and will be prompted in the browser
+
+# Upload photos
+
+1.After signup upload the photo of the individual in the known-people folder of UFACE_flask folder
