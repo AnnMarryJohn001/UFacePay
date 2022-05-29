@@ -12,7 +12,7 @@ Project of Microsoft Engage 2022 program
 ```
 npm i
 ```
-to install the node_modules in both UFace App folder as well as the Uface_frontend folder
+to install the node_modules in both UFace App folder as well as the Uface_frontend folder<br />
 3. Open command prompt and change the directory to UFace_flask folder and type
 ```
 flask run 
