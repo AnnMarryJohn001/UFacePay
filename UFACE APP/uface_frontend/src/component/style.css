@@ -1,0 +1,85 @@
+#signupbox{
+    position: absolute;
+  width: 443px;
+  height: 800px;
+  left: 550px;
+  top: 122px;
+  
+  background: #66FCF1;
+  border-radius: 50px;
+  }
+  #signuphead{
+    position: relative;
+  width: 230px;
+  height: 59px;
+  left: 100px;
+  top: 20px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  
+  color: #0B0C10;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  label{
+      position:relative;
+      left:30px;
+      width:30%;
+      text-align:end;
+      padding-right:75px;
+      display:inline-block;
+      padding-bottom: 5px;
+      color:#0B0C10;
+      font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+
+  }
+#submitbtn{
+  position:relative;
+  width: 138px;
+height: 40px;
+color:#FFFFFF;
+background-color:#45A29E;
+border-radius: 30px;
+
+
+}
+#payment{
+  position:relative;
+  width: 138px;
+height: 40px;
+color:#FFFFFF;
+background-color:#45A29E;
+border-radius: 30px;
+left:165px;
+}
+#chkstatus{
+  position:relative;
+  width: 138px;
+height: 40px;
+color:#FFFFFF;
+background-color:#45A29E;
+border-radius: 30px;
+left:165px;
+
+}
+#verifybtn{
+  position:relative;
+color:#FFFFFF;
+background-color:#45A29E;
+border-radius: 30px;
+
+
+}
+#status{
+  text-align:center;
+  color:#0B0C10;
+  font-size: 36px;
+  font-weight:700 ;
+}

@@ -1,0 +1,169 @@
+body{
+  background: #1F2833;
+mix-blend-mode: normal;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#titlehead{
+  position: absolute;
+width: 246px;
+height: 59px;
+left: 24px;
+top: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #66FCF1;
+
+}
+#titlehome{
+  
+position: relative;
+width: 89px;
+height: 26px;
+left: 1000px;
+top: 29px;
+text-decoration:none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #66FCF1;
+}
+#titlelogin{
+  position: absolute;
+width: 267px;
+height: 19px;
+left: 1100px;
+top: 33px;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #66FCF1;
+
+}
+#signbox{
+  position: absolute;
+width: 138px;
+height: 40px;
+left: 1350px;
+top: 24px;
+
+background: #45A29E;
+border-radius: 30px;
+}
+#titlesign{
+  position: relative;
+width: 99px;
+height: 22px;
+left: 45px;
+top: 9px;
+text-decoration: none;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+}
+#header{
+  position: absolute;
+width: 1600px;
+height: 75px;
+left: 0px;
+top: 0px;
+
+background: #1F2833;
+mix-blend-mode: color-dodge;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#title{
+  position: absolute;
+width: 1106px;
+height: 255px;
+left: 450px;
+top: 150px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 128px;
+line-height: 155px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #66FCF1;
+
+}
+#box{
+  position: absolute;
+width: 248px;
+height: 77px;
+left: 632px;
+top: 415px;
+
+background: #45A29E;
+border-radius: 30px;
+
+}
+#one{
+position: relative;
+width: 190px;
+height: 32px;
+left: 50px;;
+top: 9px;
+text-decoration: none;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 39px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+#login{
+  position: absolute;
+width: 427px;
+height: 38px;
+left: 625px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #66FCF1;
+
+}
+#signupform{
+  position:relative;
+  top:0px;
+  left:0px;
+  
+}
